@@ -18,7 +18,7 @@ def print_banner():
 def main():
     print_banner()
     
-    if API_KEY == "MASUKKAN_API_KEY_KAMU_DISINI" or not API_KEY:
+    if API_KEY = "XdnLfGDNMYvODBs7WkukwfHhajPtatdzcQzXokwrhyguPddbGG" or not API_KEY:
         print(f"{Colors.RED}❌ API Key belum diatur!{Colors.RESET}")
         print("Edit file config.py terlebih dahulu.")
         return
