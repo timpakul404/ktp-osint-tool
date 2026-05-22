@@ -15,6 +15,3 @@ Tool untuk mengekstrak data KTP Indonesia menggunakan API OCR.
 git clone https://github.com/timpakul404/ktp-osint-tool.git
 cd ktp-osint-tool
 pip install -r requirements.txt
-
-cd ktp-osint-tool
-python main.py
